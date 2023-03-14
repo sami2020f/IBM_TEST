@@ -8,7 +8,7 @@ A continuacíon, exportamos la base de datos a nuestro mysql .
 Por ultimo antes de ejecutar entramos de nuevo en eclipse , y en la parte superior buscamos y pinchamos en , project>properties>Run/debug Settings>Mainapp>Arguments, y ahi podremos modificar nuestro parametro de entrada por defecto yo lo tengo ya puesto como datos.txt 
 
 
-El fichero donde vuelco toda la informacíon de registros se crea en el mismo proyecto,
+El fichero donde vuelco toda la informacíon de registros se crea en el mismo proyecto
 
 
 ## Instalar Dependecia JDBC 
